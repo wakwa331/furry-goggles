@@ -1,4 +1,4 @@
-# 🤖vira bot🤖
+# wakwa bot #
 BOT WHATSAPP TERMUX ONLY BY WAKWA
 
 ### Alat dan Bahan
@@ -29,7 +29,7 @@ Script ini di modifikasi sama saya sendiri Aris187 ID.
 
 ## Features
 
-| AR15BOT      |                   Feature        |
+| WAKWABOT      |                   Feature        |
 | :-----------: | :------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Nulis                            |
